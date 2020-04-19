@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "EExpression",
 	"category" : "Expressions",
 	"classinstvars" : [ ],
 	"pools" : [ ],

@@ -1,14 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "EExpression",
+	"super" : "Object",
 	"category" : "Expressions",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"left",
-		"right"
-	],
-	"name" : "EAddition",
+	"instvars" : [ ],
+	"name" : "EExpression",
 	"type" : "normal"
 }
