@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "EConstantTest",
+	"name" : "ENegationTest",
 	"type" : "normal"
 }

@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "EConstantTest",
+	"name" : "EAdditionTest",
 	"type" : "normal"
 }

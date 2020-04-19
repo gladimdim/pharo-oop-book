@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "TestCase",
+	"super" : "Object",
 	"category" : "Expressions",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "EConstantTest",
+	"instvars" : [
+		"value"
+	],
+	"name" : "EConstant",
 	"type" : "normal"
 }
