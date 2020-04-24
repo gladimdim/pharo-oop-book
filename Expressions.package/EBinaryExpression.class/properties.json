@@ -1,11 +1,15 @@
 {
 	"commentStamp" : "",
-	"super" : "EBinaryExpression",
+	"super" : "EExpression",
 	"category" : "Expressions",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "EMultiplication",
+	"instvars" : [
+		"left",
+		"right",
+		"operatorString"
+	],
+	"name" : "EBinaryExpression",
 	"type" : "normal"
 }
