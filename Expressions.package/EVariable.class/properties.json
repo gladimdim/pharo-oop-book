@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "EExpression",
+	"category" : "Expressions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id"
+	],
+	"name" : "EVariable",
+	"type" : "normal"
+}
