@@ -1,3 +1,3 @@
 accessing
 add: anInteger coinsOfValue: aCoinNumber
-bagCoins add: aCoinNumber withOccurences: anInteger
+bagCoins add: aCoinNumber  withOccurrences: anInteger
