@@ -1,0 +1,3 @@
+accessing
+coinNumber
+^ bagCoins size
